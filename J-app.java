@@ -27,7 +27,7 @@ int userInput1 = myObj.nextInt();
 
 
 
-        System.out.println("Hello\n"+"DeV\n"+ userInput * userInput1);
+        System.out.println("Hello\n"+"DeV\n"+ userInput * userInput1 + ( userInput + userInput1) );
 
 
     }
