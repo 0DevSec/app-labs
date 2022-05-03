@@ -15,29 +15,51 @@ public class JustTryy {
     public static void main(String[] args) {
           //dev
 
-//int a = -5 + 8 * 6 ;
-//int b = (55+9) % 9;
-//int c = 20 + -3 * 5 / 8;
-//int d = 5 + 15 / 3 *2 - 8 % 3;
+//Scanner myObj = new Scanner(System.in);
 
-Scanner myObj = new Scanner(System.in);
+
+
 //System.out.println("* Enter The Number >>");
+
+
 //int userInput = myObj.nextInt();
 //int userInput1 = myObj.nextInt();
 
-int m , g ;
-
-       for (  m = 0 ; m < 10  ; m++ )
-{
-
-System.out.println();
-for (g = m   ; g == m  ; g++ ){
-System.out.println("a");
-}
 
 
-}
 
-    }
+
+
+//       for (  int java = 0  ; java <= 5; java++  ){
+ System.out.println();         
+System.out.print(" J "+"\n "+"    J  \n    J   \n    J      " +" J "+"\n "+ "JJ\n");          
+
+//System.out.println();
+//System.out.println( " \n J " + "  " +" \n J " + " \n J " );
+//}
+ //System.out.println();
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
 }
 
