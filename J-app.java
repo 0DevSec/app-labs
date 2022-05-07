@@ -201,10 +201,20 @@ System.out.println("------------------------------------------------------------
 
 
 
+int number [] = new int [6]
 
+number [0]= 1 ;
+number [1]= 2 ;
+number [2]= 4;
+number [3]= 8 ;
+number [4]= 16 ;
+number [5]= 32 ;
 
+for ( number[0] : number[1] ){
 
+System.out.println("d");
 
+}
 
 
 
